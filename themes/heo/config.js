@@ -19,17 +19,17 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享商業知識',
-  HEO_HERO_TITLE_2: '與營運策略',
-  HEO_HERO_TITLE_3: '專案管理',
-  HEO_HERO_TITLE_4: '數位工具',
+  HEO_HERO_TITLE_2: '與運營策略',
+  // HEO_HERO_TITLE_3: '數位工具',
+  // HEO_HERO_TITLE_4: '專案管理',
   HEO_HERO_TITLE_LINK: 'https://denniswang.cc',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '隨便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精選', url: '/tag/必看精選' },
-  HEO_HERO_CATEGORY_2: { title: '熱門文章', url: '/tag/熱門文章' },
-  HEO_HERO_CATEGORY_3: { title: '實用教學', url: '/tag/實用教學' },
+  HEO_HERO_CATEGORY_1: { title: '商業知識', url: '/tag/商業知識' },
+  HEO_HERO_CATEGORY_2: { title: '運營策略', url: '/tag/運營策略' },
+  HEO_HERO_CATEGORY_3: { title: '數位工具', url: '/tag/數位工具' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推薦',
