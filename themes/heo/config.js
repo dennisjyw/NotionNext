@@ -1,10 +1,10 @@
 const CONFIG = {
   HEO_HOME_POST_TWO_COLS: false, // 首页博客两列显示，若为false则只显示一列
-  HEO_LOADING_COVER: true, // 页面加载的遮罩动画
+  HEO_LOADING_COVER: false, // 页面加载的遮罩动画
 
-  HEO_HOME_BANNER_ENABLE: true,
+  HEO_HOME_BANNER_ENABLE: false,
 
-  HEO_SITE_CREATE_TIME: '2025-02-01', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2021-02-01', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -20,8 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享商業知識',
   HEO_HERO_TITLE_2: '與運營策略',
-  // HEO_HERO_TITLE_3: '數位工具',
-  // HEO_HERO_TITLE_4: '專案管理',
+  HEO_HERO_TITLE_3: '數位工具',
   HEO_HERO_TITLE_LINK: 'https://denniswang.cc',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '隨便逛逛',
